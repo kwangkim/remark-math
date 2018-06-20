@@ -1,11 +1,11 @@
 {
-  "name": "remark-math",
+  "name": "@ibrahima/remark-math",
   "version": "1.0.4",
   "description": "Math Inline and Block parser plugin for Remark",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rokt33r/remark-math.git"
+    "url": "git+https://github.com/ibrahima/remark-math.git"
   },
   "keywords": [
     "markdown",
