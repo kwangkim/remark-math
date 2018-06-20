@@ -1,5 +1,5 @@
 {
-  "name": "remark-math",
+  "name": "@ibrahima/remark-math",
   "description": "Math Inline and Block supporting for Remark",
   "scripts": {
     "postinstall": "lerna bootstrap",
