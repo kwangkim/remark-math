@@ -1,6 +1,6 @@
 {
   "name": "@kwangkim/remark-math",
-  "version": "1.11.0-0",
+  "version": "1.11.0",
   "description": "Math Inline and Block parser plugin for Remark",
   "main": "dist/index.js",
   "repository": {
@@ -37,5 +37,5 @@
   "devDependencies": {
     "babel-cli": "^6.26.0"
   },
-  "gitHead": "94d539fd28a4c17b814d3932c116b67712e9c6ea"
+  "gitHead": "93f074e547fb86c62847bcbdd399b278f2f49ef4"
 }
