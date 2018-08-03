@@ -1,6 +1,6 @@
 {
-  "name": "remark-html-katex",
-  "version": "1.1.2",
+  "name": "@kwangkim/remark-html-katex",
+  "version": "1.10.1-0",
   "description": "KaTeX transform plugin for remark-html",
   "main": "index.js",
   "repository": {
@@ -33,5 +33,6 @@
   },
   "files": [
     "index.js"
-  ]
+  ],
+  "gitHead": "812880cb515d875f4bf7e6f998846abc675b72be"
 }
