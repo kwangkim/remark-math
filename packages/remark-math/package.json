@@ -1,11 +1,11 @@
 {
   "name": "@kwangkim/remark-math",
-  "version": "0.10.0-beta",
+  "version": "0.10.0",
   "description": "Math Inline and Block parser plugin for Remark",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ibrahima/remark-math.git"
+    "url": "git+https://github.com/kwangkim/remark-math.git"
   },
   "keywords": [
     "markdown",
