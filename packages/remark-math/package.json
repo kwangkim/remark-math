@@ -1,6 +1,6 @@
 {
-  "name": "@ibrahima/remark-math",
-  "version": "1.1.0-alpha.2",
+  "name": "@kwangkim/remark-math",
+  "version": "0.10.0-beta",
   "description": "Math Inline and Block parser plugin for Remark",
   "main": "dist/index.js",
   "repository": {
@@ -18,9 +18,9 @@
   "author": "Junyoung Choi <fluke8259@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Rokt33r/remark-math/issues"
+    "url": "https://github.com/kwangkim/remark-math/issues"
   },
-  "homepage": "https://github.com/Rokt33r/remark-math#readme",
+  "homepage": "https://github.com/kwangkim/remark-math#readme",
   "peerDependencies": {
     "remark-parse": "^3.0.0 || ^4.0.0 || ^5.0.0"
   },
