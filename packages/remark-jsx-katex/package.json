@@ -1,6 +1,6 @@
 {
   "name": "@kwangkim/remark-jsx-katex",
-  "version": "1.11.2",
+  "version": "1.11.3",
   "description": "KaTeX transform plugin for mdx",
   "main": "index.js",
   "repository": {
