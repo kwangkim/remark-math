@@ -47,7 +47,7 @@ module.exports = function plugin (opts = {}) {
       const tag = isMath ? 'div' : 'span'
       const childAst = {
         "type": "jsx",
-        "value": `<${tag} dangerouslySetInnerHTML={{__html: ${renderedValue}}} />`
+        "value": `<${tag} dangerouslySetInnerHTML={{__html: '${renderedValue}' }} />`
       }
       //const childAst = parseMathHtml(renderedValue).children[0]
       element.data.hChildren = [childAst]
