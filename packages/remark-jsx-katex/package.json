@@ -1,6 +1,6 @@
 {
   "name": "@kwangkim/remark-jsx-katex",
-  "version": "1.11.3",
+  "version": "1.11.4",
   "description": "KaTeX transform plugin for mdx",
   "main": "index.js",
   "repository": {
@@ -15,27 +15,21 @@
     "latex",
     "tex"
   ],
-  "author": "Junyoung Choi <fluke8259@gmail.com>",
+  "author": "Junyoung Choi <fluke8259@gmail.com>, Kwang Kim <devkwang@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Rokt33r/remark-math/issues"
+    "url": "https://github.com/kwangkim/remark-jsx-katex/issues"
   },
-  "homepage": "https://github.com/Rokt33r/remark-math#readme",
-  "peerDependencies": {
-    "@kwangkim/remark-math": ">=1.11.2"
-  },
+  "homepage": "https://github.com/kwangkim/remark-jsx-katex#readme",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
     "katex": "^0.10.0-beta",
-    "rehype-parse": "^5.0.0",
-    "unified": "^7.0.0",
     "unist-util-position": "^3.0.1",
     "unist-util-visit": "^1.4.0"
   },
   "files": [
     "index.js"
-  ],
-  "gitHead": "7818886bee1bc6f86d0084824a114f149c54c835"
+  ]
 }
